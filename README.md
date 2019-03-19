@@ -16,7 +16,7 @@ Prueba sobre Fusionar Ramas (MERGE)
 *Hola Como estas todo bien*
 
 **No todo MAl**
-[Imagen2](Imagenes/imagen2.png width="500" height="500")
+[Imagen2]("/Imagenes/imagen2.png")
 <img src="Imagenes/imagen3.png" width="500" height="500" />
 
 | TITULO1| TITULO2|
