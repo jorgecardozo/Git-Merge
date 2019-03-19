@@ -17,12 +17,10 @@ Prueba sobre Fusionar Ramas (MERGE)
 
 **No todo MAl**
 
-[Insertar]
-
-![Imagen de Git](https://www.redeszone.net/app/uploads/2013/03/Git-Logo.png?x=634&y=309)
-
-![Otra Imagen](Imagenes/imagen1.png)
+<img src="Imagenes/imagen3.png" width="500" height="500" />
 
 | TITULO1| TITULO2|
 | ----- | ---- |
 | CONTENIDO COLUMNA 1 | CONTENIDO COLUMNA 2 |
+
+<img src="Imagenes/imagen2.png" width="500" height="500" />
