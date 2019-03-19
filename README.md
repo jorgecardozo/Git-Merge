@@ -20,3 +20,9 @@ Prueba sobre Fusionar Ramas (MERGE)
 [Insertar]
 
 ![Imagen de Git](https://www.redeszone.net/app/uploads/2013/03/Git-Logo.png?x=634&y=309)
+
+![Otra Imagen](Imagenes/imagen1.png)
+
+| TITULO1| TITULO2|
+| ----- | ---- |
+| CONTENIDO COLUMNA 1 | CONTENIDO COLUMNA 2 |
